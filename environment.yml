@@ -10,6 +10,7 @@ dependencies:
   - blas=1.0=mkl
   - bleach=3.1.4=py_0
   - ca-certificates=2020.1.1=0
+  - cairocffi=1.1.0
   - certifi=2020.4.5.2=py38_0
   - cudatoolkit=10.1.243=h6bb024c_0
   - cycler=0.10.0=py38_0
@@ -92,6 +93,7 @@ dependencies:
   - pyrsistent=0.16.0=py38h7b6447c_0
   - python=3.8.3=hcff3b4d_0
   - python-dateutil=2.8.1=py_0
+  - python-igraph=0.8.2
   - pytorch=1.5.0=py3.8_cuda10.1.243_cudnn7.6.3_0
   - pyzmq=18.1.1=py38he6710b0_0
   - qt=5.9.7=h5867ecd_1

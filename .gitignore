@@ -1,4 +1,6 @@
 gae/log*
+gae/datasets*
+gae/graph.eps
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
