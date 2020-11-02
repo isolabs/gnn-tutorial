@@ -17,10 +17,26 @@ If using the code here, or referencing the paper, please use the following bibte
 
 ## Folder structure
 
-
+```
+.
+├── html            # Exported .html files of the notebooks
+├── notebooks       # The .ipynb files of the example code
+├── .gitignore                     
+├── env.yml         # The conda environment file outlining the required dependencies
+├── LICENSE
+└── README.md
+```
 
 ## Running on your own computer
 
-Install dependancies by creating conda environment from .yml file, then run from created environment.
+Although Jupyter notebooks (```notebooks/```) and exported HTML files (```html/```) have been included in this repository for ease of viewing and sharing, you may still want to clone this repository and run / modify the code yourself.
 
-Put notebooks and code grouped into folders, and commit data directly to repository where possible.
+To do this, use a conda-based package manager and install dependencies from the file ```env.yml``` .yml file. Do this using the following command (or similar):
+
+```
+conda env create -f env.yml
+```
+
+Activate this environment and run the ```jupyter notebook``` command.
+
+This code has been tested using Python 3.8.3.
