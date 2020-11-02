@@ -1,8 +1,8 @@
 # A Practical Guide to Graph Neural Networks
 
-This repository contains explanatory code examples for the extended examples in the paper ["A Practical Guide to Graph Neural Networks"](A Practical Guide to Graph Neural Networks).
+This repository contains the code for the extended examples in the paper ["A Practical Guide to Graph Neural Networks"](https://arxiv.org/abs/2010.05234).
 
-If using the code here, or referencing the paper, please use the following bibtex citation entry for our preprint.
+If using the code here, or referencing the paper, please use the following bibtex citation entry for our preprint. 
 
 ```
 @misc{ward2020practical,
@@ -22,7 +22,7 @@ If using the code here, or referencing the paper, please use the following bibte
 ├── html            # Exported .html files of the notebooks
 ├── notebooks       # The .ipynb files of the example code
 ├── .gitignore                     
-├── env.yml         # The conda environment file outlining the required dependencies
+├── env.yml         # The conda environment dependencies file
 ├── LICENSE
 └── README.md
 ```
