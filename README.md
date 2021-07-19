@@ -39,4 +39,4 @@ conda env create -f env.yml
 
 Activate this environment and run the ```jupyter notebook``` command.
 
-This code has been tested using Python 3.8.3.
+This code has been confirmed to work with Conda 4.10.3.
