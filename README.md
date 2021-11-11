@@ -7,7 +7,7 @@ If using the code here, or referencing the paper, please use the following bibte
 ```
 @misc{ward2020practical,
       title={A Practical Guide to Graph Neural Networks}, 
-      author={Isaac Ronald Ward and Jack Joyner and Casey Lickfold and Stash Rowe and Yulan Guo and Mohammed Bennamoun},
+      author={Isaac Ronald Ward and Jack Joyner and Casey Lickfold and Yulan Guo and Mohammed Bennamoun},
       year={2020},
       eprint={2010.05234},
       archivePrefix={arXiv},
